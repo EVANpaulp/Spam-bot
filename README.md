@@ -4,7 +4,7 @@ Script spam bot wa  !
 <details open><summary><code>Perintah Script?</code></summary>
 
 ```python
-$ git clone https://github.com/EVANpaulp/Spam-bot.git
+$ git clone https://github.com/EVANpaulp/Spam-bot
 $ cd spam-wa
 $ python start.py
 ```
